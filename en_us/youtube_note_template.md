@@ -1,7 +1,3 @@
-Sure! Here's the translated version in English:
-
----
-
 # 🎥 {{title}}
 
 ## 📜 General Information
@@ -40,7 +36,3 @@ Sure! Here's the translated version in English:
 
 ___
 [[Youtube]]
-
----
-
-Let me know if you need any changes!
