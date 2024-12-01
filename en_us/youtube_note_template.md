@@ -1,39 +1,46 @@
-
-# 🎥 {{title}}
-
-## 📜 Genel Bilgiler
-- **Kanal:** [{{channel}}](#)
-- **Yayın Tarihi:** {{upload_date}}
-- **Video Süresi:** {{duration}}
-- **Kategori:** {{category}}
-- **İlgili Konular:** {{related_topics}}
+Sure! Here's the translated version in English:
 
 ---
 
-## 📝 Özet ve Notlar
+# 🎥 {{title}}
+
+## 📜 General Information
+- **Channel:** [{{channel}}](#)
+- **Upload Date:** {{upload_date}}
+- **Video Duration:** {{duration}}
+- **Category:** {{category}}
+- **Related Topics:** {{related_topics}}
+
+---
+
+## 📝 Summary and Notes
 {{summary}}
 
 ---
 
-## 🌟 Genel İnceleme
-- **Beğendiğiniz Yönler:**
+## 🌟 Overall Review
+- **Liked Aspects:**
   - 
-- **Geliştirilmesi Gereken Yönler:**
+- **Aspects to Improve:**
   - 
 
-## 🎯 Eylemler ve İlham
-- Bu videodan öğrendikleriniz:
+## 🎯 Actions and Inspiration
+- What you learned from this video:
   - 
-- Uygulamayı düşündüğünüz fikirler:
+- Ideas you plan to apply:
   - 
 
 ---
 
-## 🔗 Video Bağlantıları
+## 🔗 Video Links
 - [YouTube Link](#)
-- Diğer kaynaklar: 
-  - [Blog yazısı](#)
-  - [Benzer video](#)
+- Other Resources: 
+  - [Blog post](#)
+  - [Related video](#)
 
 ___
 [[Youtube]]
+
+---
+
+Let me know if you need any changes!
